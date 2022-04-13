@@ -22,19 +22,19 @@
     "url": "https://game.greathost.ro",
     "icon": "https://favicons.githubusercontent.com/game.greathost.ro",
     "slug": "server-gaming",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1304,
-    "timeDay": 1304,
-    "timeWeek": 1304,
-    "timeMonth": 1304,
-    "timeYear": 1304,
+    "status": "up",
+    "uptime": "48.41%",
+    "uptimeDay": "48.41%",
+    "uptimeWeek": "48.41%",
+    "uptimeMonth": "48.41%",
+    "uptimeYear": "48.41%",
+    "time": 1317,
+    "timeDay": 1317,
+    "timeWeek": 1317,
+    "timeMonth": 1317,
+    "timeYear": 1317,
     "dailyMinutesDown": {
-      "2022-04-13": 0
+      "2022-04-13": 220
     }
   }
 ]
