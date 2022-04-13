@@ -24,62 +24,62 @@ status-website:
       href: https://github.com/$OWNER/$REPO
       
 i18n:
-activeIncidents: Incidente active
-allSystemsOperational: Toate sistemele sunt operaționale
-incidentReport: "Incidentul #$NUMBER raportat →"
-activeIncidentSummary: Deschis la $DATE cu $POSTS postări
-incidentTitle: Detalii despre incidentul $NUMBER
-incidentDetails: Detalii despre incident
-incidentFixed: Rezolvat
-incidentOngoing: În desfășurare
-incidentOpenedAt: Deschis la
-incidentClosedAt: Închis la
-incidentSubscribe: Abonați-vă la Actualizări
-incidentViewOnGitHub: Vizualizați pe GitHub
-incidentCommentSummary: Postat la $DATE de $AUTHOR
-incidentBack: ← Înapoi la toate incidentele
-pastIncidents: Incidente din trecut
-pastIncidentsResolved: Rezolvat în $MINUTES minute cu $POSTS postări
-liveStatus: Stare live
-overallUptime: "Uptime general: $UPTIME"
-overallUptimeTitle: Uptime general
-averageResponseTime: "Timp mediu de răspuns: $TIMEms"
-averageResponseTimeTitle: Răspuns mediu
-sevelDayResponseTime: Timp de răspuns pe 7 zile
-responseTimeMs: Timp de răspuns (ms)
-up: Up
-down: Down
-degraded: Degradat
-ms: ms
-loading: Se încarcă
-navGitHub: GitHub
-footer: Această pagină este [sursă deschisă]($REPO), cu sprijinul [Upptime](https://upptime.js.org)
-rateLimitExceededTitle: Limita ratei a fost depășită
-rateLimitExceededIntro: Ați depășit numărul de solicitări pe care le puteți face într-o oră, așa că va trebui să așteptați înainte de a accesa din nou acest site. Alternativ, puteți adăuga un Token de acces personal GitHub pentru a continua să utilizați acest site web.
-rateLimitExceededWhatDoesErrorMean: Ce înseamnă această eroare?
-rateLimitExceededErrorMeaning: Acest site web folosește API-ul GitHub pentru a accesa date în timp real despre starea site-urilor noastre web. În mod implicit, GitHub permite fiecărei adrese IP 60 de solicitări pe oră, pe care le-ați consumat.
-rateLimitExceededErrorHowCanFix: Cum pot rezolva asta?
-rateLimitExceededErrorFix: Puteți aștepta încă o oră și limita adresei dvs. IP va fi restabilită. Alternativ, puteți adăuga Tokenul dvs. de acces personal GitHub, care vă oferă încă 5.000 de solicitări pe oră.
-rateLimitExceededGeneratePAT: Aflați cum să generați un Token de acces personal
-rateLimitExceededHasSet: Ați configurat un token de acces personal.
-rateLimitExceededRemoveToken: Eliminați token-ul
-rateLimitExceededGitHubPAT: Token de acces personal GitHub
-rateLimitExceededCopyPastePAT: Copiați și lipiți token-ul dvs.
-rateLimitExceededSaveToken: Salvați token-ul
-errorTitle: A apărut o eroare
-errorIntro: A apărut o eroare la încercarea de a obține cele mai recente detalii de stare.
-errorText: Puteți încerca din nou în câteva momente.
-errorHome: Accesați pagina principală
-pastScheduledMaintenance: Întreținere programată trecută
-scheduledMaintenance: Întreținere programată
-scheduledMaintenanceSummaryStarted: Începută la $DATE pentru $DURATION minute
-scheduledMaintenanceSummaryStarts: Începe la $DATE pentru $DURATION minute
-startedAt: A început la
-startsAt: Începe la
-duration: Durată
-durationMin: $DURATION minute
-incidentCompleted: Finalizată
-incidentScheduled: Programată
+  activeIncidents: Incidente active
+  allSystemsOperational: Toate sistemele sunt operaționale
+  incidentReport: "Incidentul #$NUMBER raportat →"
+  activeIncidentSummary: Deschis la $DATE cu $POSTS postări
+  incidentTitle: Detalii despre incidentul $NUMBER
+  incidentDetails: Detalii despre incident
+  incidentFixed: Rezolvat
+  incidentOngoing: În desfășurare
+  incidentOpenedAt: Deschis la
+  incidentClosedAt: Închis la
+  incidentSubscribe: Abonați-vă la Actualizări
+  incidentViewOnGitHub: Vizualizați pe GitHub
+  incidentCommentSummary: Postat la $DATE de $AUTHOR
+  incidentBack: ← Înapoi la toate incidentele
+  pastIncidents: Incidente din trecut
+  pastIncidentsResolved: Rezolvat în $MINUTES minute cu $POSTS postări
+  liveStatus: Stare live
+  overallUptime: "Uptime general: $UPTIME"
+  overallUptimeTitle: Uptime general
+  averageResponseTime: "Timp mediu de răspuns: $TIMEms"
+  averageResponseTimeTitle: Răspuns mediu
+  sevelDayResponseTime: Timp de răspuns pe 7 zile
+  responseTimeMs: Timp de răspuns (ms)
+  up: Up
+  down: Down
+  degraded: Degradat
+  ms: ms
+  loading: Se încarcă
+  navGitHub: GitHub
+  footer: Această pagină este [sursă deschisă]($REPO), cu sprijinul [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Limita ratei a fost depășită
+  rateLimitExceededIntro: Ați depășit numărul de solicitări pe care le puteți face într-o oră, așa că va trebui să așteptați înainte de a accesa din nou acest site. Alternativ, puteți adăuga un Token de acces personal GitHub pentru a continua să utilizați acest site web.
+  rateLimitExceededWhatDoesErrorMean: Ce înseamnă această eroare?
+  rateLimitExceededErrorMeaning: Acest site web folosește API-ul GitHub pentru a accesa date în timp real despre starea site-urilor noastre web. În mod implicit, GitHub permite fiecărei adrese IP 60 de solicitări pe oră, pe care le-ați consumat.
+  rateLimitExceededErrorHowCanFix: Cum pot rezolva asta?
+  rateLimitExceededErrorFix: Puteți aștepta încă o oră și limita adresei dvs. IP va fi restabilită. Alternativ, puteți adăuga Tokenul dvs. de acces personal GitHub, care vă oferă încă 5.000 de solicitări pe oră.
+  rateLimitExceededGeneratePAT: Aflați cum să generați un Token de acces personal
+  rateLimitExceededHasSet: Ați configurat un token de acces personal.
+  rateLimitExceededRemoveToken: Eliminați token-ul
+  rateLimitExceededGitHubPAT: Token de acces personal GitHub
+  rateLimitExceededCopyPastePAT: Copiați și lipiți token-ul dvs.
+  rateLimitExceededSaveToken: Salvați token-ul
+  errorTitle: A apărut o eroare
+  errorIntro: A apărut o eroare la încercarea de a obține cele mai recente detalii de stare.
+  errorText: Puteți încerca din nou în câteva momente.
+  errorHome: Accesați pagina principală
+  pastScheduledMaintenance: Întreținere programată trecută
+  scheduledMaintenance: Întreținere programată
+  scheduledMaintenanceSummaryStarted: Începută la $DATE pentru $DURATION minute
+  scheduledMaintenanceSummaryStarts: Începe la $DATE pentru $DURATION minute
+  startedAt: A început la
+  startsAt: Începe la
+  duration: Durată
+  durationMin: $DURATION minute
+  incidentCompleted: Finalizată
+  incidentScheduled: Programată
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
