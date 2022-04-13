@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 731,
-    "timeDay": 731,
-    "timeWeek": 731,
-    "timeMonth": 731,
-    "timeYear": 731,
+    "time": 713,
+    "timeDay": 713,
+    "timeWeek": 713,
+    "timeMonth": 713,
+    "timeYear": 713,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/game.greathost.ro",
     "slug": "server-gaming",
     "status": "up",
-    "uptime": "48.41%",
-    "uptimeDay": "48.41%",
-    "uptimeWeek": "48.41%",
-    "uptimeMonth": "48.41%",
-    "uptimeYear": "48.41%",
-    "time": 1317,
-    "timeDay": 1317,
-    "timeWeek": 1317,
-    "timeMonth": 1317,
-    "timeYear": 1317,
-    "dailyMinutesDown": {
-      "2022-04-13": 220
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1315,
+    "timeDay": 1315,
+    "timeWeek": 1315,
+    "timeMonth": 1315,
+    "timeYear": 1315,
+    "dailyMinutesDown": {}
   }
 ]
