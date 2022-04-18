@@ -4,19 +4,19 @@
     "url": "https://ultra.greathost.ro",
     "icon": "https://favicons.githubusercontent.com/ultra.greathost.ro",
     "slug": "server-ultra",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 781,
-    "timeDay": 783,
+    "timeDay": 782,
     "timeWeek": 781,
     "timeMonth": 781,
     "timeYear": 781,
     "dailyMinutesDown": {
-      "2022-04-18": 0
+      "2022-04-18": 5
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://game.greathost.ro",
     "icon": "https://favicons.githubusercontent.com/game.greathost.ro",
     "slug": "server-gaming",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 1317,
-    "timeDay": 1332,
+    "timeDay": 1331,
     "timeWeek": 1317,
     "timeMonth": 1317,
     "timeYear": 1317,
     "dailyMinutesDown": {
-      "2022-04-18": 0
+      "2022-04-18": 5
     }
   },
   {
