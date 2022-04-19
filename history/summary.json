@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/ultra.greathost.ro",
     "slug": "server-ultra",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 781,
-    "timeDay": 782,
-    "timeWeek": 781,
-    "timeMonth": 781,
-    "timeYear": 781,
-    "dailyMinutesDown": {
-      "2022-04-18": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 786,
+    "timeDay": 817,
+    "timeWeek": 786,
+    "timeMonth": 786,
+    "timeYear": 786,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Server Gaming",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/game.greathost.ro",
     "slug": "server-gaming",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 1317,
-    "timeDay": 1331,
-    "timeWeek": 1317,
-    "timeMonth": 1317,
-    "timeYear": 1317,
-    "dailyMinutesDown": {
-      "2022-04-18": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1325,
+    "timeDay": 1375,
+    "timeWeek": 1325,
+    "timeMonth": 1325,
+    "timeYear": 1325,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nameserver 2",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 149,
-    "timeWeek": 147,
-    "timeMonth": 147,
-    "timeYear": 147,
+    "time": 148,
+    "timeDay": 157,
+    "timeWeek": 148,
+    "timeMonth": 148,
+    "timeYear": 148,
     "dailyMinutesDown": {}
   }
 ]
