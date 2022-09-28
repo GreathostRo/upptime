@@ -4,36 +4,40 @@
     "url": "https://ultra.greathost.ro",
     "icon": "https://favicons.githubusercontent.com/ultra.greathost.ro",
     "slug": "server-ultra",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 872,
-    "timeDay": 930,
-    "timeWeek": 861,
+    "timeDay": 929,
+    "timeWeek": 860,
     "timeMonth": 837,
     "timeYear": 872,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-28": 0
+    }
   },
   {
     "name": "Server Gaming",
     "url": "https://game.greathost.ro",
     "icon": "https://favicons.githubusercontent.com/game.greathost.ro",
     "slug": "server-gaming",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1432,
-    "timeDay": 1391,
-    "timeWeek": 1315,
+    "timeDay": 1326,
+    "timeWeek": 1320,
     "timeMonth": 1236,
     "timeYear": 1432,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-28": 1
+    }
   },
   {
     "name": "Nameserver 2",
@@ -47,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 158,
-    "timeWeek": 154,
+    "timeDay": 166,
+    "timeWeek": 155,
     "timeMonth": 154,
     "timeYear": 156,
     "dailyMinutesDown": {}
