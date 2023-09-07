@@ -1,7 +1,7 @@
 url: https://game.greathost.ro
-status: up
-code: 200
-responseTime: 1147
-lastUpdated: 2023-09-07T12:30:29.732Z
+status: down
+code: 403
+responseTime: 1166
+lastUpdated: 2023-09-07T12:58:59.912Z
 startTime: 2022-04-13T13:09:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
