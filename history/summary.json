@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/ultra.greathost.ro.ico",
     "slug": "server-ultra",
     "status": "up",
-    "uptime": "83.46%",
+    "uptime": "83.47%",
     "uptimeDay": "97.44%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "80.84%",
+    "uptimeYear": "80.90%",
     "time": 874,
-    "timeDay": 872,
-    "timeWeek": 862,
+    "timeDay": 865,
+    "timeWeek": 863,
     "timeMonth": 857,
     "timeYear": 873,
     "dailyMinutesDown": {
@@ -116,8 +116,7 @@
       "2023-01-02": 1440,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
-      "2022-12-30": 1440,
-      "2022-12-29": 1440
+      "2022-12-30": 1440
     }
   },
   {
@@ -130,11 +129,11 @@
     "uptimeDay": "97.44%",
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "81.70%",
+    "uptimeYear": "81.75%",
     "time": 1399,
-    "timeDay": 1422,
-    "timeWeek": 1426,
-    "timeMonth": 1402,
+    "timeDay": 1427,
+    "timeWeek": 1425,
+    "timeMonth": 1403,
     "timeYear": 1400,
     "dailyMinutesDown": {
       "2023-12-28": 37,
@@ -232,8 +231,7 @@
       "2023-01-02": 1440,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
-      "2022-12-30": 1440,
-      "2022-12-29": 1440
+      "2022-12-30": 1440
     }
   },
   {
@@ -248,9 +246,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 111,
-    "timeWeek": 113,
-    "timeMonth": 136,
+    "timeDay": 110,
+    "timeWeek": 112,
+    "timeMonth": 135,
     "timeYear": 156,
     "dailyMinutesDown": {}
   }
