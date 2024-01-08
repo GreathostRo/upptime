@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ultra.greathost.ro.ico",
     "slug": "server-ultra",
     "status": "up",
-    "uptime": "83.67%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "83.11%",
+    "uptime": "83.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "83.63%",
     "time": 872,
-    "timeDay": 877,
-    "timeWeek": 867,
-    "timeMonth": 861,
+    "timeDay": 814,
+    "timeWeek": 865,
+    "timeMonth": 859,
     "timeYear": 872,
     "dailyMinutesDown": {
-      "2024-01-06": 3,
       "2024-01-03": 20,
       "2024-01-01": 16,
       "2023-12-28": 37,
@@ -109,9 +108,7 @@
       "2023-01-12": 1440,
       "2023-01-11": 1440,
       "2023-01-10": 1440,
-      "2023-01-09": 1440,
-      "2023-01-08": 1440,
-      "2023-01-07": 1440
+      "2023-01-09": 1440
     }
   },
   {
@@ -120,15 +117,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.greathost.ro.ico",
     "slug": "server-gaming",
     "status": "up",
-    "uptime": "84.17%",
+    "uptime": "84.22%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "83.96%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "84.49%",
     "time": 1401,
-    "timeDay": 1445,
-    "timeWeek": 1435,
-    "timeMonth": 1425,
+    "timeDay": 1441,
+    "timeWeek": 1440,
+    "timeMonth": 1431,
     "timeYear": 1401,
     "dailyMinutesDown": {
       "2024-01-03": 20,
@@ -218,9 +215,7 @@
       "2023-01-12": 1440,
       "2023-01-11": 1440,
       "2023-01-10": 1440,
-      "2023-01-09": 1440,
-      "2023-01-08": 1440,
-      "2023-01-07": 1440
+      "2023-01-09": 1440
     }
   },
   {
@@ -235,9 +230,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 119,
+    "timeDay": 111,
     "timeWeek": 113,
-    "timeMonth": 126,
+    "timeMonth": 123,
     "timeYear": 155,
     "dailyMinutesDown": {}
   }
