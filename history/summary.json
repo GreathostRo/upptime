@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ultra.greathost.ro.ico",
     "slug": "server-ultra",
     "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "93.23%",
-    "uptimeMonth": "92.99%",
-    "uptimeYear": "98.10%",
+    "uptime": "98.91%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "93.61%",
+    "uptimeMonth": "93.00%",
+    "uptimeYear": "97.69%",
     "time": 863,
-    "timeDay": 864,
-    "timeWeek": 863,
+    "timeDay": 874,
+    "timeWeek": 862,
     "timeMonth": 869,
     "timeYear": 863,
     "dailyMinutesDown": {
-      "2024-05-25": 29,
+      "2024-05-25": 27,
       "2024-05-23": 337,
       "2024-05-22": 222,
       "2024-05-21": 21,
@@ -91,7 +91,9 @@
       "2024-01-23": 76,
       "2024-01-22": 79,
       "2024-01-21": 1,
-      "2024-01-20": 18
+      "2024-01-20": 18,
+      "2024-01-14": 1313,
+      "2024-01-13": 847
     }
   },
   {
@@ -101,17 +103,17 @@
     "slug": "server-gaming",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "93.25%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "93.62%",
     "uptimeMonth": "92.88%",
-    "uptimeYear": "98.08%",
-    "time": 1397,
-    "timeDay": 1644,
-    "timeWeek": 1414,
-    "timeMonth": 1372,
-    "timeYear": 1398,
+    "uptimeYear": "98.06%",
+    "time": 1398,
+    "timeDay": 1349,
+    "timeWeek": 1418,
+    "timeMonth": 1373,
+    "timeYear": 1397,
     "dailyMinutesDown": {
-      "2024-05-25": 29,
+      "2024-05-25": 27,
       "2024-05-23": 338,
       "2024-05-22": 222,
       "2024-05-21": 20,
@@ -182,7 +184,9 @@
       "2024-02-02": 69,
       "2024-02-01": 2,
       "2024-01-31": 18,
-      "2024-01-29": 31
+      "2024-01-29": 31,
+      "2024-01-23": 76,
+      "2024-01-22": 1
     }
   },
   {
@@ -197,9 +201,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 111,
+    "timeDay": 113,
     "timeWeek": 114,
-    "timeMonth": 111,
+    "timeMonth": 112,
     "timeYear": 137,
     "dailyMinutesDown": {}
   }
