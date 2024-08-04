@@ -4,19 +4,19 @@
     "url": "https://ultra.greathost.ro",
     "icon": "https://icons.duckduckgo.com/ip3/ultra.greathost.ro.ico",
     "slug": "server-ultra",
-    "status": "down",
+    "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "97.79%",
-    "uptimeMonth": "93.28%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "97.57%",
+    "uptimeMonth": "93.23%",
     "uptimeYear": "98.41%",
     "time": 871,
-    "timeDay": 884,
-    "timeWeek": 945,
+    "timeDay": 891,
+    "timeWeek": 943,
     "timeMonth": 908,
     "timeYear": 871,
     "dailyMinutesDown": {
-      "2024-08-04": 0,
+      "2024-08-04": 22,
       "2024-08-03": 92,
       "2024-08-02": 4,
       "2024-08-01": 74,
@@ -84,7 +84,7 @@
       "2024-04-13": 19,
       "2024-04-12": 33,
       "2024-04-11": 367,
-      "2024-04-10": 61
+      "2024-04-10": 43
     }
   },
   {
@@ -92,19 +92,19 @@
     "url": "https://game.greathost.ro",
     "icon": "https://icons.duckduckgo.com/ip3/game.greathost.ro.ico",
     "slug": "server-gaming",
-    "status": "down",
+    "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "93.38%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "93.34%",
     "uptimeYear": "98.46%",
     "time": 1427,
-    "timeDay": 1487,
-    "timeWeek": 1606,
-    "timeMonth": 1566,
+    "timeDay": 1486,
+    "timeWeek": 1601,
+    "timeMonth": 1565,
     "timeYear": 1427,
     "dailyMinutesDown": {
-      "2024-08-04": 7,
+      "2024-08-04": 22,
       "2024-08-03": 25,
       "2024-08-01": 74,
       "2024-07-30": 20,
@@ -169,8 +169,7 @@
       "2024-04-18": 150,
       "2024-04-16": 111,
       "2024-04-15": 135,
-      "2024-04-13": 29,
-      "2024-04-12": 17
+      "2024-04-13": 29
     }
   },
   {
@@ -186,7 +185,7 @@
     "uptimeYear": "100.00%",
     "time": 129,
     "timeDay": 113,
-    "timeWeek": 112,
+    "timeWeek": 111,
     "timeMonth": 111,
     "timeYear": 129,
     "dailyMinutesDown": {}
