@@ -6,16 +6,17 @@
     "slug": "server-ultra",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "93.88%",
-    "uptimeMonth": "94.98%",
-    "uptimeYear": "98.72%",
+    "uptimeDay": "91.45%",
+    "uptimeWeek": "92.66%",
+    "uptimeMonth": "94.75%",
+    "uptimeYear": "98.71%",
     "time": 873,
-    "timeDay": 825,
-    "timeWeek": 880,
+    "timeDay": 847,
+    "timeWeek": 857,
     "timeMonth": 885,
     "timeYear": 873,
     "dailyMinutesDown": {
+      "2024-09-11": 123,
       "2024-09-10": 17,
       "2024-09-09": 338,
       "2024-09-08": 44,
@@ -80,8 +81,7 @@
       "2024-06-09": 19,
       "2024-06-08": 49,
       "2024-06-05": 32,
-      "2024-06-04": 38,
-      "2024-06-02": 21
+      "2024-06-04": 21
     }
   },
   {
@@ -90,17 +90,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/game.greathost.ro.ico",
     "slug": "server-gaming",
     "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "93.91%",
-    "uptimeMonth": "95.00%",
-    "uptimeYear": "98.70%",
+    "uptime": "99.47%",
+    "uptimeDay": "91.49%",
+    "uptimeWeek": "92.75%",
+    "uptimeMonth": "94.76%",
+    "uptimeYear": "98.72%",
     "time": 1447,
-    "timeDay": 1344,
-    "timeWeek": 1488,
-    "timeMonth": 1540,
+    "timeDay": 1375,
+    "timeWeek": 1491,
+    "timeMonth": 1536,
     "timeYear": 1447,
     "dailyMinutesDown": {
+      "2024-09-11": 122,
       "2024-09-10": 17,
       "2024-09-09": 338,
       "2024-09-08": 44,
@@ -165,7 +166,7 @@
       "2024-06-09": 19,
       "2024-06-08": 48,
       "2024-06-05": 32,
-      "2024-06-04": 225
+      "2024-06-04": 20
     }
   },
   {
@@ -180,7 +181,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 113,
+    "timeDay": 110,
     "timeWeek": 112,
     "timeMonth": 112,
     "timeYear": 124,
