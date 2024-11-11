@@ -4,19 +4,19 @@
     "url": "https://ultra.greathost.ro",
     "icon": "https://icons.duckduckgo.com/ip3/ultra.greathost.ro.ico",
     "slug": "server-ultra",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "93.81%",
-    "uptimeWeek": "90.96%",
-    "uptimeMonth": "94.25%",
+    "uptimeDay": "94.11%",
+    "uptimeWeek": "91.24%",
+    "uptimeMonth": "94.27%",
     "uptimeYear": "99.31%",
     "time": 885,
-    "timeDay": 961,
-    "timeWeek": 931,
-    "timeMonth": 977,
+    "timeDay": 954,
+    "timeWeek": 934,
+    "timeMonth": 978,
     "timeYear": 885,
     "dailyMinutesDown": {
-      "2024-11-11": 75,
+      "2024-11-11": 86,
       "2024-11-10": 117,
       "2024-11-09": 2,
       "2024-11-08": 400,
@@ -54,7 +54,7 @@
       "2024-10-02": 27,
       "2024-10-01": 149,
       "2024-09-30": 298,
-      "2024-09-29": 26
+      "2024-09-29": 7
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://game.greathost.ro",
     "icon": "https://icons.duckduckgo.com/ip3/game.greathost.ro.ico",
     "slug": "server-gaming",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "93.81%",
-    "uptimeWeek": "90.82%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "93.63%",
+    "uptimeWeek": "91.03%",
     "uptimeMonth": "94.25%",
-    "uptimeYear": "99.31%",
+    "uptimeYear": "99.32%",
     "time": 1434,
-    "timeDay": 1347,
-    "timeWeek": 1419,
-    "timeMonth": 1485,
+    "timeDay": 1297,
+    "timeWeek": 1406,
+    "timeMonth": 1480,
     "timeYear": 1434,
     "dailyMinutesDown": {
-      "2024-11-11": 75,
+      "2024-11-11": 93,
       "2024-11-10": 117,
       "2024-11-09": 2,
       "2024-11-08": 400,
@@ -111,8 +111,7 @@
       "2024-10-03": 22,
       "2024-10-02": 27,
       "2024-10-01": 149,
-      "2024-09-30": 297,
-      "2024-09-29": 7
+      "2024-09-30": 241
     }
   },
   {
@@ -127,9 +126,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 117,
+    "timeDay": 113,
     "timeWeek": 113,
-    "timeMonth": 111,
+    "timeMonth": 112,
     "timeYear": 116,
     "dailyMinutesDown": {}
   }
