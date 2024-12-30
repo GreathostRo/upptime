@@ -4,19 +4,19 @@
     "url": "https://ultra.greathost.ro",
     "icon": "https://icons.duckduckgo.com/ip3/ultra.greathost.ro.ico",
     "slug": "server-ultra",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "96.41%",
-    "uptimeWeek": "94.59%",
-    "uptimeMonth": "89.91%",
+    "uptimeDay": "96.02%",
+    "uptimeWeek": "94.54%",
+    "uptimeMonth": "89.95%",
     "uptimeYear": "99.16%",
     "time": 893,
-    "timeDay": 863,
-    "timeWeek": 868,
+    "timeDay": 874,
+    "timeWeek": 866,
     "timeMonth": 905,
     "timeYear": 893,
     "dailyMinutesDown": {
-      "2024-12-30": 33,
+      "2024-12-30": 38,
       "2024-12-29": 39,
       "2024-12-28": 156,
       "2024-12-27": 70,
@@ -44,7 +44,7 @@
       "2024-12-05": 689,
       "2024-12-04": 147,
       "2024-12-03": 66,
-      "2024-12-02": 47
+      "2024-12-02": 25
     }
   },
   {
@@ -52,19 +52,19 @@
     "url": "https://game.greathost.ro",
     "icon": "https://icons.duckduckgo.com/ip3/game.greathost.ro.ico",
     "slug": "server-gaming",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "96.46%",
-    "uptimeWeek": "94.49%",
-    "uptimeMonth": "89.95%",
+    "uptimeDay": "95.60%",
+    "uptimeWeek": "94.37%",
+    "uptimeMonth": "89.97%",
     "uptimeYear": "99.16%",
     "time": 1435,
-    "timeDay": 1347,
+    "timeDay": 1372,
     "timeWeek": 1364,
-    "timeMonth": 1390,
+    "timeMonth": 1391,
     "timeYear": 1435,
     "dailyMinutesDown": {
-      "2024-12-30": 32,
+      "2024-12-30": 44,
       "2024-12-29": 39,
       "2024-12-28": 155,
       "2024-12-27": 85,
@@ -92,7 +92,7 @@
       "2024-12-05": 688,
       "2024-12-04": 146,
       "2024-12-03": 66,
-      "2024-12-02": 47
+      "2024-12-02": 25
     }
   },
   {
@@ -107,8 +107,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 114,
-    "timeWeek": 116,
+    "timeDay": 116,
+    "timeWeek": 117,
     "timeMonth": 114,
     "timeYear": 112,
     "dailyMinutesDown": {}
