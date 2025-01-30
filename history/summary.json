@@ -4,11 +4,11 @@
     "url": "https://ultra.greathost.ro",
     "icon": "https://icons.duckduckgo.com/ip3/ultra.greathost.ro.ico",
     "slug": "server-ultra",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "74.15%",
-    "uptimeWeek": "81.24%",
-    "uptimeMonth": "93.55%",
+    "uptimeDay": "70.43%",
+    "uptimeWeek": "80.71%",
+    "uptimeMonth": "93.54%",
     "uptimeYear": "99.46%",
     "time": 906,
     "timeDay": 1017,
@@ -16,7 +16,7 @@
     "timeMonth": 1017,
     "timeYear": 907,
     "dailyMinutesDown": {
-      "2025-01-30": 282,
+      "2025-01-30": 336,
       "2025-01-29": 270,
       "2025-01-28": 322,
       "2025-01-27": 195,
@@ -25,7 +25,7 @@
       "2025-01-24": 168,
       "2025-01-23": 246,
       "2025-01-22": 411,
-      "2025-01-21": 308
+      "2025-01-21": 261
     }
   },
   {
@@ -33,19 +33,19 @@
     "url": "https://game.greathost.ro",
     "icon": "https://icons.duckduckgo.com/ip3/game.greathost.ro.ico",
     "slug": "server-gaming",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "73.68%",
-    "uptimeWeek": "81.18%",
-    "uptimeMonth": "93.62%",
+    "uptimeDay": "70.43%",
+    "uptimeWeek": "80.71%",
+    "uptimeMonth": "93.59%",
     "uptimeYear": "99.47%",
     "time": 1438,
-    "timeDay": 1459,
-    "timeWeek": 1528,
-    "timeMonth": 1485,
+    "timeDay": 1452,
+    "timeWeek": 1526,
+    "timeMonth": 1484,
     "timeYear": 1438,
     "dailyMinutesDown": {
-      "2025-01-30": 289,
+      "2025-01-30": 336,
       "2025-01-29": 270,
       "2025-01-28": 321,
       "2025-01-27": 195,
@@ -54,7 +54,7 @@
       "2025-01-24": 168,
       "2025-01-23": 247,
       "2025-01-22": 419,
-      "2025-01-21": 261
+      "2025-01-21": 229
     }
   },
   {
@@ -69,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 111,
-    "timeWeek": 111,
+    "timeDay": 115,
+    "timeWeek": 112,
     "timeMonth": 115,
     "timeYear": 113,
     "dailyMinutesDown": {}
