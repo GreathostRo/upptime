@@ -1,7 +1,7 @@
 url: https://ultra.greathost.ro
-status: up
-code: 200
-responseTime: 862
-lastUpdated: 2025-01-30T16:34:06.431Z
+status: down
+code: 403
+responseTime: 1363
+lastUpdated: 2025-01-30T16:44:06.650Z
 startTime: 2022-04-13T13:08:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
