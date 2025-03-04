@@ -4,19 +4,19 @@
     "url": "https://ultra.greathost.ro",
     "icon": "https://icons.duckduckgo.com/ip3/ultra.greathost.ro.ico",
     "slug": "server-ultra",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "79.72%",
-    "uptimeWeek": "82.53%",
-    "uptimeMonth": "92.24%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "80.23%",
+    "uptimeWeek": "82.31%",
+    "uptimeMonth": "92.27%",
+    "uptimeYear": "99.36%",
     "time": 924,
-    "timeDay": 950,
+    "timeDay": 953,
     "timeWeek": 942,
     "timeMonth": 1030,
     "timeYear": 925,
     "dailyMinutesDown": {
-      "2025-03-04": 252,
+      "2025-03-04": 276,
       "2025-03-03": 404,
       "2025-03-02": 152,
       "2025-03-01": 265,
@@ -31,7 +31,7 @@
       "2025-02-20": 378,
       "2025-02-19": 221,
       "2025-02-18": 47,
-      "2025-02-17": 95
+      "2025-02-17": 61
     }
   },
   {
@@ -39,19 +39,19 @@
     "url": "https://game.greathost.ro",
     "icon": "https://icons.duckduckgo.com/ip3/game.greathost.ro.ico",
     "slug": "server-gaming",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "79.33%",
-    "uptimeWeek": "82.20%",
+    "uptimeDay": "80.30%",
+    "uptimeWeek": "82.04%",
     "uptimeMonth": "92.17%",
     "uptimeYear": "99.35%",
-    "time": 1455,
-    "timeDay": 1469,
-    "timeWeek": 1459,
-    "timeMonth": 1558,
+    "time": 1456,
+    "timeDay": 1445,
+    "timeWeek": 1458,
+    "timeMonth": 1557,
     "timeYear": 1457,
     "dailyMinutesDown": {
-      "2025-03-04": 258,
+      "2025-03-04": 275,
       "2025-03-03": 401,
       "2025-03-02": 148,
       "2025-03-01": 265,
@@ -66,7 +66,7 @@
       "2025-02-20": 377,
       "2025-02-19": 221,
       "2025-02-18": 47,
-      "2025-02-17": 61
+      "2025-02-17": 46
     }
   },
   {
@@ -81,8 +81,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 120,
-    "timeWeek": 116,
+    "timeDay": 121,
+    "timeWeek": 117,
     "timeMonth": 115,
     "timeYear": 113,
     "dailyMinutesDown": {
