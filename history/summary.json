@@ -6,17 +6,17 @@
     "slug": "server-ultra",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "95.90%",
-    "uptimeWeek": "88.41%",
-    "uptimeMonth": "91.77%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "89.68%",
+    "uptimeMonth": "91.74%",
     "uptimeYear": "99.31%",
     "time": 937,
-    "timeDay": 835,
-    "timeWeek": 865,
-    "timeMonth": 913,
+    "timeDay": 865,
+    "timeWeek": 861,
+    "timeMonth": 911,
     "timeYear": 937,
     "dailyMinutesDown": {
-      "2025-04-20": 41,
+      "2025-04-20": 32,
       "2025-04-19": 234,
       "2025-04-18": 145,
       "2025-04-17": 91,
@@ -40,7 +40,8 @@
       "2025-03-30": 15,
       "2025-03-29": 195,
       "2025-03-28": 151,
-      "2025-03-27": 167
+      "2025-03-27": 167,
+      "2025-03-26": 20
     }
   },
   {
@@ -50,17 +51,17 @@
     "slug": "server-gaming",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "95.95%",
-    "uptimeWeek": "88.66%",
-    "uptimeMonth": "91.95%",
-    "uptimeYear": "99.33%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "89.99%",
+    "uptimeMonth": "91.90%",
+    "uptimeYear": "99.32%",
     "time": 1484,
-    "timeDay": 1450,
-    "timeWeek": 1537,
-    "timeMonth": 1528,
+    "timeDay": 1446,
+    "timeWeek": 1525,
+    "timeMonth": 1523,
     "timeYear": 1485,
     "dailyMinutesDown": {
-      "2025-04-20": 40,
+      "2025-04-20": 32,
       "2025-04-19": 234,
       "2025-04-18": 154,
       "2025-04-17": 67,
@@ -83,7 +84,7 @@
       "2025-03-31": 103,
       "2025-03-29": 193,
       "2025-03-28": 151,
-      "2025-03-27": 137
+      "2025-03-27": 167
     }
   },
   {
@@ -98,7 +99,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 114,
+    "timeDay": 117,
     "timeWeek": 117,
     "timeMonth": 116,
     "timeYear": 113,
