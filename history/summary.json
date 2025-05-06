@@ -4,19 +4,20 @@
     "url": "https://ultra.greathost.ro",
     "icon": "https://icons.duckduckgo.com/ip3/ultra.greathost.ro.ico",
     "slug": "server-ultra",
-    "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "83.95%",
-    "uptimeWeek": "84.14%",
-    "uptimeMonth": "89.75%",
-    "uptimeYear": "99.11%",
-    "time": 938,
-    "timeDay": 883,
-    "timeWeek": 877,
-    "timeMonth": 870,
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "85.94%",
+    "uptimeWeek": "83.17%",
+    "uptimeMonth": "89.78%",
+    "uptimeYear": "99.09%",
+    "time": 937,
+    "timeDay": 915,
+    "timeWeek": 862,
+    "timeMonth": 871,
     "timeYear": 938,
     "dailyMinutesDown": {
-      "2025-05-05": 105,
+      "2025-05-06": 0,
+      "2025-05-05": 202,
       "2025-05-04": 164,
       "2025-05-03": 39,
       "2025-05-02": 549,
@@ -46,7 +47,7 @@
       "2025-04-07": 124,
       "2025-04-06": 180,
       "2025-04-05": 106,
-      "2025-04-04": 141
+      "2025-04-04": 116
     }
   },
   {
@@ -54,19 +55,20 @@
     "url": "https://game.greathost.ro",
     "icon": "https://icons.duckduckgo.com/ip3/game.greathost.ro.ico",
     "slug": "server-gaming",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "84.05%",
-    "uptimeWeek": "84.18%",
-    "uptimeMonth": "89.80%",
-    "uptimeYear": "99.12%",
+    "uptimeDay": "85.80%",
+    "uptimeWeek": "83.14%",
+    "uptimeMonth": "89.83%",
+    "uptimeYear": "99.11%",
     "time": 1491,
-    "timeDay": 1625,
-    "timeWeek": 1507,
-    "timeMonth": 1525,
+    "timeDay": 1736,
+    "timeWeek": 1526,
+    "timeMonth": 1523,
     "timeYear": 1492,
     "dailyMinutesDown": {
-      "2025-05-05": 105,
+      "2025-05-06": 7,
+      "2025-05-05": 202,
       "2025-05-04": 162,
       "2025-05-03": 38,
       "2025-05-02": 549,
@@ -96,7 +98,7 @@
       "2025-04-07": 123,
       "2025-04-06": 179,
       "2025-04-05": 98,
-      "2025-04-04": 95
+      "2025-04-04": 58
     }
   },
   {
@@ -111,10 +113,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 113,
+    "timeDay": 118,
     "timeWeek": 117,
     "timeMonth": 117,
-    "timeYear": 113,
+    "timeYear": 114,
     "dailyMinutesDown": {
       "2025-02-19": 22
     }
